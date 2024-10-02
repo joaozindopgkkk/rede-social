@@ -1,3 +1,7 @@
 body {
-    background-color: blue;
+    background-color: rgb(49, 49, 218);
+    color: rgb(249, 247, 244);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    margin: 0;
 }
